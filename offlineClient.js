@@ -1,4 +1,4 @@
-"use strict";
+ /* "use strict";
 
 (function() {
 	
@@ -51,3 +51,5 @@
 	
 }());
 
+
+*/
